@@ -34,7 +34,7 @@ while (tanya) {
         user = prompt("Kurang Besar\nKesempatan Kamu " + nyawa + "\nSilahkan pilih ulang");
       }
     } else {
-      alert("Maaf Kamu GAGAL!\nAngka yang di maksud adalah" + comp);
+      alert("Maaf Kamu GAGAL!\nAngka yang di maksud adalah " + comp);
       break;
     }
   }
